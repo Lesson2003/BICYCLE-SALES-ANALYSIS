@@ -1,7 +1,5 @@
 # Sales Analytics Dashboard | Power BI
 
-![Sales Dashboard](Screenshot 2026-06-12 015227(1).png)
-
 ## Project Overview
 
 This project focuses on developing an interactive **Sales Analytics Dashboard using Microsoft Power BI** to transform raw sales data into actionable business insights.
